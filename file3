@@ -1,0 +1,4 @@
+git clone url
+git checkout 
+git checkout -u branch name
+
